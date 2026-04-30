@@ -1,4 +1,4 @@
-👋 Hi, I'm Hemant Kushwaha
+ Hi, I'm Hemant Kushwaha
 
 A passionate MERN Stack Developer || React Enthusiast || Web Developer from India
 📩 Email Me: kushwahhemant776@gmail.com
