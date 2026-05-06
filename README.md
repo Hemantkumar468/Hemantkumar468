@@ -58,26 +58,9 @@ const hemant: Developer = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hemantkumar468&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&custom_title=Hemant%27s%20GitHub%20Stats" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemantkumar468&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=donut&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Hemantkumar468&theme=midnight-purple&hide_border=true&stroke=7b2ff7&ring=7b2ff7&fire=ff6b6b&currStreakLabel=7b2ff7" width="60%" alt="GitHub Streak"/>
-
-<br/><br/>
-
----
 
 ## 🌐 Let's Connect
 
