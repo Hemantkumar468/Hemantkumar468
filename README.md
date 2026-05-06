@@ -70,7 +70,7 @@ const hemant: Developer = {
   <img src="https://img.shields.io/badge/Discord-Join%20Server-%237289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0f0c29"/>
 </a>
 
-<a href="https://linkedin.com/in/HemantKushwaha">
+<a href="[https://linkedin.com/in/HemantKushwaha](https://www.linkedin.com/in/hemant-kushwaha-fullmernstackdeveloper/)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/>
 </a>
 <a href="https://x.com/hemant468">
