@@ -129,29 +129,7 @@ const hemant: Developer = {
 
 ---
 
-## ✍️ Dev Quote
 
-<div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://profile-readme-generator.com/assets/snake.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://profile-readme-generator.com/assets/snake.svg"/>
-  <img alt="Snake animation" src="https://profile-readme-generator.com/assets/snake.svg"/>
-</picture>
-
-</div>
-
----
-
-<div align="center">
 
