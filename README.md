@@ -77,32 +77,6 @@ const hemant: Developer = {
 
 <br/><br/>
 
-### 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemantkumar468&bg_color=0f0c29&color=7b2ff7&line=7b2ff7&point=ffffff&area=true&hide_border=true&custom_title=Hemant%27s%20Contribution%20Graph&area_color=302b63)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hemantkumar468&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
-
-</div>
-
----
-
-## 🔥 Top Contributed Repos
-
-<div align="center">
-
-![Contributions](https://github-contributor-stats.vercel.app/api?username=Hemantkumar468&limit=6&theme=dracula&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
-
 ---
 
 ## 🌐 Let's Connect
