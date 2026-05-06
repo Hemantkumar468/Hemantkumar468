@@ -155,20 +155,3 @@ const hemant: Developer = {
 
 <div align="center">
 
-### 💜 Support My Work
-
-If you like what I build, leave a ⭐ on my repos — it means the world!
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hemantkumar)
-
-<br/>
-
-*"Code is poetry — write something beautiful."*
-
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=Hemantkumar468&label=Visitors&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
