@@ -69,9 +69,7 @@ const hemant: Developer = {
 <a href="https://discord.gg/hamantkumar">
   <img src="https://img.shields.io/badge/Discord-Join%20Server-%237289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0f0c29"/>
 </a>
-<a href="https://instagram.com/hemant_kushwaha_1">
-  <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29"/>
-</a>
+
 <a href="https://linkedin.com/in/HemantKushwaha">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29"/>
 </a>
